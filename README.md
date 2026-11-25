@@ -1,2 +1,5 @@
-# minha-playlist-git
-Mulheres no Futuro - Aula 7
+# Minha playlist
+
+Projeto em Python para mostrar músicas favoritas.
+
+Para executar: python playlist.py
