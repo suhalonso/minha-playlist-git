@@ -4,4 +4,4 @@ musicas = [
 ]
 print("Minhas músicas favoritas:")
 for musica in musicas:
-  print(musica)
+  print("-", musica)
